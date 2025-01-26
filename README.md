@@ -1,4 +1,4 @@
-# AR Museum Prototype
+# AR Museum App
 
 **Immersive Augmented Reality Experiences for Themed Vacation Homes**
 
