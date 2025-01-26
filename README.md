@@ -1,4 +1,7 @@
-# AR Museum App
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14741693.svg)](https://doi.org/10.5281/zenodo.14741693)
+
+
+# Augmneted Reality Museum - Orlando, FL
 
 **Immersive Augmented Reality Experiences for Themed Vacation Homes**
 
